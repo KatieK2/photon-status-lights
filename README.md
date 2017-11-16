@@ -1,4 +1,4 @@
-# photon-status-lights
+# Photon Status Lights
 Quick reference for what the light codes on a Particle Spark indicate.
 
 ## Codes
